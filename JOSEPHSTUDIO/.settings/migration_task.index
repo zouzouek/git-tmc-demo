@@ -165,6 +165,11 @@
     "version" : "7.4.1",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.camel.designer.migration.UpdateBeansDefaultLibrariesMigrationTask.8.0.1-2022-06",
+    "breaks" : "7.3.0",
+    "version" : "7.4.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.camel.designer.migration.UpdateBeansLibrariesMigrationTask.7.3.1",
     "breaks" : "7.3.0",
     "version" : "7.3.1",
@@ -705,6 +710,11 @@
     "version" : "5.2.2",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.repository.model.migration.AddClientParamsToFTPTDI44761",
+    "breaks" : "8.0.0",
+    "version" : "8.0.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.repository.model.migration.AddConnectorNameInConnections",
     "breaks" : "5.1.1",
     "version" : "5.1.2",
@@ -1135,6 +1145,11 @@
     "version" : "5.3.1",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.repository.model.migration.ChangeGoogleAnalyticsReportTableEleValueMigrationTask",
+    "breaks" : "8.0.0",
+    "version" : "8.0.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.repository.model.migration.ChangeGreenplumDefaultDriverMigrationTask",
     "breaks" : "7.4.0",
     "version" : "7.4.1",
@@ -1489,6 +1504,11 @@
     "version" : "5.1.2",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.repository.model.migration.EncryptPasswordForNexusProxyPasswordMigrationTask",
+    "breaks" : "7.3.1",
+    "version" : "7.3.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.repository.model.migration.EncryptPasswordInComponentsMigrationTask",
     "breaks" : "5.4.1",
     "version" : "5.4.2",
@@ -1703,6 +1723,11 @@
     "version" : "7.3.1",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.repository.model.migration.RemoveDestinationPropertyExtractJSONFieldsMigrationTask",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.repository.model.migration.RemoveDuplicatedContextGroupMigrationTask",
     "breaks" : "6.0.1",
     "version" : "6.1.2",
@@ -1833,6 +1858,11 @@
     "version" : "7.2.1",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.repository.model.migration.RenameTimeoutParameterstRESTClient",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
+    "status" : "ok"
+  }, {
     "id" : "org.talend.repository.model.migration.RenameVersionParametersForPigMigrationTask",
     "breaks" : "5.1.1",
     "version" : "5.1.2",
@@ -1926,6 +1956,11 @@
     "id" : "org.talend.repository.model.migration.ReplaceInheritCredentialCheckBoxWithDropDownListTaskForRedshift",
     "breaks" : "7.3.0",
     "version" : "7.3.1",
+    "status" : "noimpact"
+  }, {
+    "id" : "org.talend.repository.model.migration.ReplaceMappingForGreenplumDatabaseMigrationTask",
+    "breaks" : "8.0.0",
+    "version" : "8.0.1",
     "status" : "noimpact"
   }, {
     "id" : "org.talend.repository.model.migration.ReplaceMultiFlowBytReplicateMigrationTask",
@@ -2132,6 +2167,11 @@
     "version" : "7.0.1",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.repository.model.migration.TSendMailOAuthMigrationTask",
+    "breaks" : "8.0.0",
+    "version" : "8.0.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.repository.model.migration.TeradataTPTAddDatabaseNameToOptionalTablesMigrationTask",
     "breaks" : "7.3.0",
     "version" : "7.3.1",
@@ -2260,6 +2300,11 @@
     "breaks" : "6.1.0",
     "version" : "6.1.0",
     "status" : "noimpact"
+  }, {
+    "id" : "org.talend.repository.model.migration.UpdateMappingFileMigrationTask",
+    "breaks" : "7.3.0",
+    "version" : "7.3.1",
+    "status" : "ok"
   }, {
     "id" : "org.talend.repository.model.migration.UpdateTheJobsActionsOnTable",
     "breaks" : "5.1.1",
